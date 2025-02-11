@@ -153,11 +153,15 @@ footer{
     color: #f4f0ea;
 }
 
-footer a{
+footer {
     text-decoration: none;
-    color: #798252;
+    color: #ec1919;
+    margin-top: 25rem;
+}
 }
 
 figcaption {
     font-size: 0.6rem;
 }
+
+footer {
